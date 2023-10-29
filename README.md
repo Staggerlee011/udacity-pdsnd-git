@@ -1,4 +1,4 @@
-# Bikeshare Project
+# Udacity Programming for Data Science with Python Nanodegree Program - Bikeshare Project
 
 Example repo for the udacity course "Programming for Data Science with Python Nanodegree Program"
 
