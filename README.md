@@ -1,16 +1,39 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity Programming for Data Science with Python Nanodegree Program - Bikeshare Project
 
-### Date created
-Include the date you created this project and README file.
+Repo for the udacity course "Programming for Data Science with Python Nanodegree Program"
 
-### Project Title
-Replace the Project Title
+## Date created
 
-### Description
-Describe what your project is about and what it does
+Sunday 29th October 2023
 
-### Files used
-Include the files used
+## Project Title
+
+Bikeshare Project
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+Bikeshare Project
+
+## Description
+
+Pyton script to explore the bikeshare data from three cities in the US.
+
+## Files used
+
+Uses the following files (note the csv have been excluded from the repo):
+
+### Python script
+
+- bikeshare.py
+
+This script can be ran via: `python bikeshare.py`
+
+### Data files
+
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+
+## Credits
+
+- https://github.com/udacity/pdsnd_github
