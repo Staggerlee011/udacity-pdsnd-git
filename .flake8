@@ -1,0 +1,9 @@
+[flake8]
+# Ignore the following checks
+ignore =
+    # E501 line too long
+    E501
+    # F541 f-string is missing placeholders
+    F541
+    # W503 line break before binary operator
+    W503
