@@ -10,6 +10,10 @@ Sunday 29th October 2023
 
 Bikeshare Project
 
+### Credits
+
+Bikeshare Project
+
 ## Description
 
 Pyton script to explore the bikeshare data from three cities in the US.
